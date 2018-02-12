@@ -1,4 +1,5 @@
 This
 Is - This part was modified in branch dev-1
 Test. - This part was modified in branch dev-2.
-This part was added in branch dev-1
+This part was added in branch dev-1 <- this was modified in dev-3
+This was added in dev-3.
